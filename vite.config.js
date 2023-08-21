@@ -10,7 +10,7 @@ export default defineConfig({
     "process.env": {},
   },
   plugins: [react()],
-  base:"/MovieClub/"
+  base:"/MovieClub/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
