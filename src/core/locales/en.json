@@ -1,0 +1,23 @@
+{
+    "movie.trending":"Trending",
+    "movie.toprated":"Top Rated",
+    "movie.action":"Action",
+    "movie.romance":"Romance",
+    "movie.comedy":"Comedy",
+    "movie.drama":"Drama",
+    "movie.horror":"Horror",
+    "movie.crime":"Crime",
+    "movie.family":"Family",
+    "movie.animation":"Animation",
+    "movie.cast":"Movie Cast",
+    "movie.trailer":"Trailer",
+    "movie.recommendations":"Recommendations",
+    "movie.known":"Known For",
+    "movie.movies":"Movies",
+    "movie.series":"Series",
+    "movie.actors":"Actors",
+    "movie.type":"Type",
+    "movie.search":"Search for Movies,Series and Actors",
+    "movie.results":"There is no results!!!",
+    "movie.noRecommend":"There are no recommendations..."
+}

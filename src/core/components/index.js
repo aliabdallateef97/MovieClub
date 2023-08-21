@@ -1,0 +1,7 @@
+export {default as MetaData} from './metaData'
+export {default as MovieCard} from './MovieCard'
+export {default as PaginationSlider} from './PaginationSlider/PaginationSlider'
+export {default as MovieList} from './MovieList'
+export {default as MovieSkeleton} from './MovieSkeleton'
+export {default as Loader} from './Loader'
+export {default as ErrorBoundary} from './ErrorBoundary'

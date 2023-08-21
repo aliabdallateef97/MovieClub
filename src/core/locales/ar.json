@@ -1,0 +1,23 @@
+{
+    "movie.trending": "شائع",
+    "movie.toprated": "الأعلى تقييمًا",
+    "movie.action": "اكشن",
+    "movie.romance": "رومنسي",
+    "movie.comedy": "كوميدي",
+    "movie.drama": "دراما",
+    "movie.horror": "رعب",
+    "movie.crime": "جريمة",
+    "movie.family": "العائلة",
+    "movie.animation": "رسوم متحركة",
+    "movie.cast":"طاقم الممثلين",
+    "movie.trailer":"فلم قصير",
+    "movie.recommendations":"التوصيات",
+    "movie.known":"معرض الاعمال",
+    "movie.movies":"أفلام",
+    "movie.series":"مسلسلات",
+    "movie.actors":"ممثلين",
+    "movie.type":"النوع",
+    "movie.search":"ابحث عن افلام, مسلسلات و ممثلين",
+    "movie.results":"لا يوجد نتائج!!!",
+    "movie.noRecommend":"لا توجد توصيات..."
+}
